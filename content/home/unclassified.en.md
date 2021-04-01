@@ -18,22 +18,24 @@ weight = 65
 
 ### Websites
 
+- [***Personal website***](https://pzhao.org).
+- [***ZPGroup***](https://zpgroup.pzhao.org): Research group.
+- [***HESLAB***](https://pzhaonet.github.io/hes/): Gallery for the laboratory, Department of Health and Environmental Sciences, Xi'an-Jiaotong-Liverpool University.
+- [***Modern Statistical Graphics***](https://msg2020.pzhao.org/).
 - [***Learning R***](https://xuer.pzhao.org/): Official website of the book *Learning R: From the Very Beginning*.
-- [***HESLAB***](https://pzhaonet.github.io/hes/): Gallery for the laboratory, Department of Health and Environmental Sciences, Xi'an Jiaotong-Liverpool University.
+- ZTGroup BBS (deactivated). 
 - [***R Markdown Gallery***](https://rmd.pzhao.org/): Collection of R Markdown templates and themes.
 - [***OpenR***](https://openr.pzhao.org): R and Open Science.
-- [***Personal website***](https://pzhao.org).
 - [Former blog](http://dapengde.com) (2005 -- , deactivated). Only in Chinese.
 - [Wings of the Wind](https://gallery.pzhao.org). Photographs. Videos. Audios. 
 - [nCoV2020](https://ncov2020.org): COVID-19 Pandemic Reports.
 - [Bookdownplus Gallery](https://bookdownplus.pzhao.org/). Collect and display R bookdown templates.
-- ZTGroup BBS (deactivated). 
 
 ### Online Tools
 
 - [Meteorobot](https://sciwis.shinyapps.io/meteorobot/). Display or process meteorological data.
 - [EddyPoster](https://sciwis.shinyapps.io/eddyposter/). Eddy covariance data post processor.
-- [Rchive](https://sciwis.shinyapps.io/rchive/). Display the public discussion list on R development and R help.
+- [Rchive](https://sciwis.shinyapps.io/rchive/). A Shiny app for displaying the public discussion list on COS, R development and R help.
 - [Steemg](http://ec2-35-157-142-69.eu-central-1.compute.amazonaws.com:3838/myapp/). Display the contests on steem (deactivated).
 - [Steemr](https://pzhao.shinyapps.io/steemr/). Display the posts and users on steem (deactivated).
 
@@ -71,6 +73,7 @@ weight = 65
 
 #### Technical
 - xjtlu ([docs](https://pzhao.org/pkg/xjtlu), [GitHub](https://github.com/pzhaonet/xjtlu)): An R package for Xi'an Jiaotong-Liverpool University.
+- rchive ([GitHub](https://github.com/pzhaonet/rchive))：An R package for displaying the public discussion list on COS, R development and R help.
 - sinx ([docs](https://pzhao.org/pkg/sinx), [CRAN](https://CRAN.R-project.org/package=sinx), [GitHub](https://github.com/pzhaonet/sinx)): R fortunes in Chinese.
   ![sinx](http://cranlogs.r-pkg.org/badges/grand-total/sinx)
 - blogdownplus ([docs](https://pzhao.org/pkg/blogdownplus)): Assistant for building blogdown sites.

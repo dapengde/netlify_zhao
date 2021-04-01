@@ -18,13 +18,15 @@ weight = 65
 
 ### 网站
 
-- [学 R](https://xuer.pzhao.org/): 《学 R：零基础学习 R 语言》一书的官方网站。
-- [HESLAB](https://pzhaonet.github.io/hes/): 西交利物浦大学健康与环境科学系实验室在线展示平台。
-- [OpenR](https://openr.pzhao.org/): R 语言与开放科学。
 - [个人网站](https://pzhao.org)。
+- [ZPGroup](https://zpgroup.pzhao.org)：研究小组。
+- [HESLAB](https://pzhaonet.github.io/hes/): 西交利物浦大学健康与环境科学系实验室在线展示平台。
+- [现代统计图形](https://msg2020.pzhao.org/): 印刷版的官方网站。
+- [学 R](https://xuer.pzhao.org/): 《学 R：零基础学习 R 语言》一书的官方网站。
+- ZTGroup BBS（停用）：朱彤教授科研小组 BBS。
+- [OpenR](https://openr.pzhao.org/): R 语言与开放科学。
 - [大鹏志](http://dapengde.com) (2005 -- 2018)：旧博客，已停止维护。
 - [风之翼](https://gallery.pzhao.org)：照片，录像，录音。
-- ZTGroup BBS（停用）：朱彤教授科研小组 BBS。
 - [nCoV2020](https://ncov2020.org)：COVID-19 新型冠状病毒疫情报告。
 - [R Markdown Gallery](https://rmd.pzhao.org/): R Markdown 模板主题展。
 - [Bookdownplus Gallery](https://bookdownplus.pzhao.org/)：展示 R bookdown 模板。
@@ -33,7 +35,7 @@ weight = 65
 
 - [Meteorobot](https://sciwis.shinyapps.io/meteorobot/)：处理气象数据和作图。
 - [EddyPoster](https://sciwis.shinyapps.io/eddyposter/)：处理微气象学通量数据。 
-- [Rchive](https://sciwis.shinyapps.io/rchive/)：展示 R 邮件列表及统计数据。
+- [Rchive](https://sciwis.shinyapps.io/rchive/)：展示统计之都论坛和 R 邮件列表及统计数据。
 - [Steemg](http://ec2-35-157-142-69.eu-central-1.compute.amazonaws.com:3838/myapp/)（停用）：展示和统计 steem 上的活动。
 - [Steemr](https://pzhao.shinyapps.io/steemr/)（停用）：展示和统计 steem 上的帖子和用户信息。
 
@@ -77,6 +79,7 @@ weight = 65
 
 #### 技术类
 - xjtlu ([docs](https://pzhao.org/pkg/xjtlu), [GitHub](https://github.com/pzhaonet/xjtlu)): R 语言包，西交利物浦大学专用。
+- rchive ([GitHub](https://github.com/pzhaonet/rchive))：R 语言包，洛阳铲，展示统计之都论坛和 R 邮件列表及统计数据。
 - sinx ([docs](https://pzhao.org/pkg/sinx), [CRAN](https://CRAN.R-project.org/package=sinx), [GitHub](https://github.com/pzhaonet/sinx)): R 语言包，R 语言中文社区语录火花集锦。
 ![sinx](http://cranlogs.r-pkg.org/badges/grand-total/sinx)
 - blogdownplus ([docs](https://pzhao.org/pkg/blogdownplus)): R 语言包，blogdown 建站助手。
